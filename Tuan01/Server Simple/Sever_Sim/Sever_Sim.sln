@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sever_Sim", "Sever_Sim.csproj", "{DF061C35-5887-4271-9E65-6B5E98ADCB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Sim", "..\Clinet_Sim\Client_Sim\Client_Sim.csproj", "{3E5A339F-FE2A-4333-9A98-3EF0145FB21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF061C35-5887-4271-9E65-6B5E98ADCB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF061C35-5887-4271-9E65-6B5E98ADCB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF061C35-5887-4271-9E65-6B5E98ADCB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF061C35-5887-4271-9E65-6B5E98ADCB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5A339F-FE2A-4333-9A98-3EF0145FB21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5A339F-FE2A-4333-9A98-3EF0145FB21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5A339F-FE2A-4333-9A98-3EF0145FB21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5A339F-FE2A-4333-9A98-3EF0145FB21A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58928F84-CB0C-40C2-84BE-BEF3BC2D113F}
+	EndGlobalSection
+EndGlobal

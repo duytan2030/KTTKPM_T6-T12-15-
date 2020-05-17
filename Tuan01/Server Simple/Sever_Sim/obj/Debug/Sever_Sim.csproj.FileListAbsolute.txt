@@ -1,0 +1,7 @@
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan01\Server Simple\Sever_Sim\bin\Debug\Sever_Sim.exe.config
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan01\Server Simple\Sever_Sim\bin\Debug\Sever_Sim.exe
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan01\Server Simple\Sever_Sim\bin\Debug\Sever_Sim.pdb
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan01\Server Simple\Sever_Sim\obj\Debug\Sever_Sim.csprojAssemblyReference.cache
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan01\Server Simple\Sever_Sim\obj\Debug\Sever_Sim.csproj.CoreCompileInputs.cache
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan01\Server Simple\Sever_Sim\obj\Debug\Sever_Sim.exe
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan01\Server Simple\Sever_Sim\obj\Debug\Sever_Sim.pdb

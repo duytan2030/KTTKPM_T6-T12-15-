@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessageActiveMQ", "SendMessageActiveMQ.csproj", "{C482BCC1-AD8A-4D1A-98F3-14CDECD9B7E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecieverMessageActiveMQ", "..\RecieverMessageActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ.csproj", "{448128E0-8A65-4F61-9912-BA5EE7DAA800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C482BCC1-AD8A-4D1A-98F3-14CDECD9B7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C482BCC1-AD8A-4D1A-98F3-14CDECD9B7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C482BCC1-AD8A-4D1A-98F3-14CDECD9B7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C482BCC1-AD8A-4D1A-98F3-14CDECD9B7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448128E0-8A65-4F61-9912-BA5EE7DAA800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448128E0-8A65-4F61-9912-BA5EE7DAA800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448128E0-8A65-4F61-9912-BA5EE7DAA800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448128E0-8A65-4F61-9912-BA5EE7DAA800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C367A058-741C-4B66-A38D-63096FE9498F}
+	EndGlobalSection
+EndGlobal

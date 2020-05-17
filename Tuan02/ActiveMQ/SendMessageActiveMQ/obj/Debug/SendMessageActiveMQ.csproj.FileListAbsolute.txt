@@ -1,0 +1,10 @@
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\bin\Debug\SendMessageActiveMQ.exe.config
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\bin\Debug\SendMessageActiveMQ.exe
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\bin\Debug\SendMessageActiveMQ.pdb
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\bin\Debug\Apache.NMS.dll
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\obj\Debug\SendMessageActiveMQ.csprojAssemblyReference.cache
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\obj\Debug\SendMessageActiveMQ.csproj.CoreCompileInputs.cache
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\obj\Debug\SendMessageActiveMQ.csproj.CopyComplete
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\obj\Debug\SendMessageActiveMQ.exe
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\SendMessageActiveMQ\obj\Debug\SendMessageActiveMQ.pdb

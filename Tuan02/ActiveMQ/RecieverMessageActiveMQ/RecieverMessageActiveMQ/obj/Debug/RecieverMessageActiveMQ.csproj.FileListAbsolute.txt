@@ -1,0 +1,10 @@
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\bin\Debug\RecieverMessageActiveMQ.exe.config
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\bin\Debug\RecieverMessageActiveMQ.exe
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\bin\Debug\RecieverMessageActiveMQ.pdb
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\bin\Debug\Apache.NMS.dll
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\obj\Debug\RecieverMessageActiveMQ.csproj.CoreCompileInputs.cache
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\obj\Debug\RecieverMessageActiveMQ.csproj.CopyComplete
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\obj\Debug\RecieverMessageActiveMQ.exe
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\obj\Debug\RecieverMessageActiveMQ.pdb
+C:\Users\NOPE\Desktop\KTTKPM T6\Tuan02\ActiveMQ\RecieverMessageActiveMQ\RecieverMessageActiveMQ\obj\Debug\RecieverMessageActiveMQ.csprojAssemblyReference.cache
