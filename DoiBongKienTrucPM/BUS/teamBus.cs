@@ -1,0 +1,28 @@
+﻿using DAL;
+using Entity;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BUS
+{
+    public class teamBus
+    {
+        teamDal db;
+        public teamBus()
+        {
+            db = new teamDal();
+        }
+        public List<eTeam> getALlTeam()
+        {
+            return db.getALlTeam();
+        }
+        public bool CreateTeam(eTeam team)
+        {
+            return db.CreateDoiBong(team);
+        }
+       
+    }
+}

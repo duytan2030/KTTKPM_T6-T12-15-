@@ -1,0 +1,13 @@
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\bin\Debug\Entity.dll.config
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\bin\Debug\Entity.dll
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\bin\Debug\Entity.pdb
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\bin\Debug\EntityFramework.dll
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\bin\Debug\EntityFramework.xml
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\obj\Debug\Entity.dll
+C:\Users\NOPE\Desktop\DoiBongKienTrucPM\Entity\obj\Debug\Entity.pdb
