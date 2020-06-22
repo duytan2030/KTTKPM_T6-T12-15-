@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "..\BUS\BUS.csproj", "{0D84E73B-858A-43CF-9B3A-979D33617489}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUIWebForm", "..\GUIWebForm\GUIWebForm.csproj", "{7CFE14AB-CEE4-4AE9-916A-A1B399AA15CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0D84E73B-858A-43CF-9B3A-979D33617489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D84E73B-858A-43CF-9B3A-979D33617489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D84E73B-858A-43CF-9B3A-979D33617489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CFE14AB-CEE4-4AE9-916A-A1B399AA15CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFE14AB-CEE4-4AE9-916A-A1B399AA15CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFE14AB-CEE4-4AE9-916A-A1B399AA15CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFE14AB-CEE4-4AE9-916A-A1B399AA15CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
