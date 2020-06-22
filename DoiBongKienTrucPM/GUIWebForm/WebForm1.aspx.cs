@@ -83,7 +83,7 @@ namespace GUIWebForm
             {
 
                 txtEmail.Enabled = true;
-                txtIDCauThu.Enabled = false;
+                txtIDCauThu.Enabled = true;
                 txtSDT.Enabled = true;
                 txtTenCauThu.Enabled = true;
                 btnUpdate.Text = "Huy Update";
